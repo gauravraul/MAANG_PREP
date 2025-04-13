@@ -118,3 +118,109 @@
 - Train Softmax Regression with Gradient Descent
 - Train Logistic Regression with Gradient Descent
 - Policy Gradient with REINFORCE
+
+
+#  DATA LEMUR:
+
+## Easy:
+- Histogram of Tweets
+- Data Science Skills
+- Page With No Likes
+- Unfinished Parts
+- Laptop vs. Mobile Viewership
+- Coin Fairness Test
+- Precision/Recall Tradeoff
+- Average Post Hiatus (Part 1)
+- Teams Power Users
+- 4 Rolls To 4
+- Base 13 Conversion
+- Same Stripes
+- Factorial Formula
+- Intersection of Two Lists
+- Another One
+- Weakest Strong Link
+- Fizz Buzz Sum
+- Compound Interest
+- Triangular Sum
+- Duplicate Job Listings
+- Cities With Completed Trades
+- Contains Duplicate
+- Roman to Integer
+- Counting Letters In Numbers
+- Average Review Ratings
+- Well Paid Employees
+- Is Anagram?
+- Pascals Triangle
+- App Click-through Rate (CTR)
+- Second Day Confirmation
+- Is Palindrome
+- IBM db2 Product Analytics
+- Cards Issued Difference
+- Compressed Mean
+- Pharmacy Analytics (Part 1)
+- Pharmacy Analytics (Part 2)
+- Pharmacy Analytics (Part 3)
+- Assumptions of Linear Regression
+- Patient Support Analysis (Part 1)
+
+## Medium
+- Lazy Movie Raters
+- User's Third Transaction
+- Second Highest Salary
+- Sending vs. Opening Snaps
+- Tweets' Rolling Averages
+- Consecutive Fives
+- Highest-Grossing Items
+- Top Three Salaries
+- Signup Activation Rate
+- Longest Consecutive Sequence
+- Looping Number
+- Gift Card Satisfaction
+- Matrix Rotation
+- Clock-wise Matrix Rotation
+- Min Amplitude
+- Average Subarray
+- k-Radius Average
+- Idle GPU Days
+- Hill Climbing
+- Video Ads Insertion
+- Spiral Matrix
+- Data Conference Attendees
+- Supercloud Customer
+- Real Estate Modelling
+- Most Popular Integers
+- Generate Fractions
+- Max Product of Three Numbers
+- Two Sum
+- Two Sum (Part 2)
+- Two Sum (Part 3)
+- Pearson Correlation Coefficient
+- Largest Contiguous Subarray Sum
+- Biased Coin?
+- Odd and Even Measurements
+- Swapped Food Delivery
+- Coin Change
+- FAANG Stock Min-Max (Part 1)
+- User Shopping Sprees
+- Histogram of Users and Purchases
+- Compressed Mode
+- Card Launch Success
+- International Call Percentage
+- Patient Support Analysis (Part 2)
+- Connection Request Spam
+
+## Hard:
+- Active User Retention
+- Y-on-Y Growth Rate
+- Maximize Prime Item Inventory
+- Median Google Search Frequency
+- Advertiser Status
+- Word Search
+- 3-Topping Pizzas
+- Product vs. Square
+- Modeling User Churn
+- Department vs. Company Salary
+- Repeated Payments
+- Minimum of Two Uniform Variables
+- Frequentist vs. Bayesian
+- Server Utilization Time
