@@ -224,3 +224,759 @@
 - Minimum of Two Uniform Variables
 - Frequentist vs. Bayesian
 - Server Utilization Time
+
+# Interview Query:
+## Easy:
+
+- Merge Sorted Lists
+- Find the Missing Number
+- Z and t-Tests
+- Coefficients of Logistic Regression
+- Find the First Non-Repeating Character in a String
+- SELECTive Wine Connoisseur
+- N Dice
+- Select All Flights
+- Largest Salary by Department
+- Perfectly Separable
+- Found Item
+- Finding The Mode
+- Total Salary
+- Last Element of a Singly Linked List
+- Finding the Maximum Number in a List
+- Sum of Matrix Elements
+- Triplet Counting
+- Rectangle Overlap
+- Button AB Test
+- Download Facts
+- Why Do We Need Time Series Models?
+- Prime Numbers Identification
+- Changing Composer
+- Decreasing Comments
+- Manager Team Sizes
+- Type I and II Errors
+- Biggest Tip
+- Alphabet Sum
+- Drawing Balls From Bin
+- Find the Index with Equal Left and Right Sum
+- Find Duplicate Numbers in a List
+- Flatten N-Dimensional Array to 1D Array
+- Minimum Absolute Distance
+- Time Difference
+- Dasher Payment Structure
+- Book Availability Update
+- Probability of Forming a Triangle
+- Closest Key
+- Scalped Ticket
+- Uniform Car Maker
+- Explaining Linear Regression to Different Audiences
+- Fill None Values
+- Dynamic Game Summary
+- Different Parcel Effectiveness
+- Session Difference
+- Average Quantity
+- Like Tracker
+- Dice Rolls From Continuous Uniform
+- Text Editor With OOP
+- Twenty Variants
+- AB Test Ties
+- AR and MA
+- Total Spent on Products
+- Dice Worth Rolling
+- Empty Neighborhoods
+- Business Days
+- Counting File Lines
+- 2nd Highest Salary
+- Compute Variance
+- Profit-Maximizing Dice Game
+- Marble Bucket
+- Largest Wireless Packages
+- Median O(1)
+- Ride Coupon
+- Late Orders
+- Lasso vs Ridge
+- Banner Ad Strategy Success
+- 5th Largest Number
+- Fixed Length Arrays: Addition
+- Distance Traveled
+- Covariance vs Correlation
+- Word Frequency
+- Valid Anagram
+- Impossibly Iterative Fibonacci
+- Combinational Dice Rolls
+- Counting Vehicles
+- Swap Variables
+- Simulating Coin Tosses
+- Search Linked List
+- A/B Test Power Size
+- Digitizing Student Test Scores
+- Free Shipping Mention Test
+- Increased Cancellations
+- New Geography
+- Fair Coin
+- Stories Success
+- Pop Tail
+- Confidence Interval Explanation
+- Google Docs Drop
+- Statistically Significant Test
+- Food Prep Features
+- Declining Applicants
+- Estimating Birthdays
+- Fixed-Length Arrays: Deletion
+- Target Value Search
+- Credit Card Fraud Model
+- Emails Opened
+- Max Quantity
+- Insurance Leads
+- Pizza No Show
+- Using R Squared
+- Total Transactions
+- Popular Apple Actions
+- Second Ace
+- Recurring Character
+- String Mapping
+- N-gram Dictionary
+- Same Characters
+- Search Algorithm Recall
+- Bootstrapping Confidence Intervals
+- Binary Tree Conversion
+- Variate Anomalies
+- Maximal Substring
+- Two Cars
+- String Palindromes
+- Minimum Change
+- f(x,y) in Interval
+- Average Ride Duration
+- String Shift
+- Friend Requests Down
+- Most Repetition
+- Moving Window
+- Expected Churn
+- Repeated Category Purchase
+- Different Card
+- Search Increase
+- Count Transactions
+- Precision and Recall
+- Player Analysis
+- Find Bigrams
+- Daily Logins
+- Ad Raters
+- Marketing Channel Metrics
+- Classification and Regression
+- Spam Classifier
+- Daily Active Users
+- Loan Model
+- RMS Error
+- Lifetime Plays
+- Stop Words Filter
+- Weighted Average Email Campaign
+- Digit Accumulator
+- Foreign Key Constraints
+- Bagging vs Boosting
+- Greater Release Dates
+- New Resumes
+- Average Revenue per Customer
+- Email Blast
+- Choosing k
+- Best Measure
+- Decision Tree Evaluation
+- Justify a Neural Network
+- Good Grades and Favorite Colors
+- Approximate Ad Views
+- New Partner Card
+- Xgboost vs Random Forest
+- 1000 Sample Classifier
+- Mouse Search
+- Acceptance Rate
+- Adding a Constant to a Sample
+- Average Order Value
+- P-value to a Layman
+- Popular Actions
+- Ticket Agent Analysis
+- Term Frequency
+- Fewer Orders
+- The Brackets Problem
+- Random Forest Explanation
+- Singly Linked List
+- Over 100 Dollars
+- Low Precision
+- Significant Order Value
+- Project Budget Error
+- WallStreetBets Sentiment Analysis
+- Tower of Hanoi Algorithm
+- One-Hot Encoder
+- Subway Machine Learning Model
+- Feedback Sentiment Analysis
+- Swipe Payment API
+- Always Excited Users
+- Rain on Rainy Days
+- Returning Last Element
+- Google Maps Improvement
+- Delivery Assignments
+- N-Gram Count
+- E-Commerce Subscription Retention
+- Impute Median
+- Advertisement Matching
+- Video Pins
+- Linear vs Logistic Regression
+- Why Do You Want to Work With Us
+- Correlation in Regression
+- Random Forest Expansion
+- Scaling With More Layers
+- Disagreeing Colleagues
+- Exceeding Expectations
+- Cashflow Interest Projection
+- Direct Mail
+- WhatsApp Metrics
+- loc vs iloc
+- Target Whitepages
+- Slow SQL Query
+- Reddit-like Notifications
+- Apartment Pricing
+- Third Party Ad Pricing
+- Debug Marriage Data
+- Interest Rates
+- Handling Conflicts
+- Prioritizing Deadlines
+ 
+- ## Medium:
+- First to Six
+- Threaded Comments
+- Pre-Launching Shows
+- Nightly Job
+- Distribution of 2X - Y
+- User Experience Percentage
+- Weighted Keys
+- Three Zebras
+- Estimating D
+- Slacking Employees Salaries
+- Top 5 Turnover Risk
+- Softmax vs Logistic
+- Customer Orders
+- Lazy Raters
+- Survey Response Randomness
+- Same Algorithm Different Success
+- Average Commute Time
+- Completed Shipments
+- Bias vs. Variance Tradeoff
+- Raining in Seattle
+- Rejection Reason
+- Matrix Rotation
+- Delivery Estimate Model
+- Running Dog
+- Order Addresses
+- Exam Scores
+- Generate Shopping List from Recipes
+- Mutated Offspring
+- Four Person Elevator
+- Integer to Roman
+- Upsell Transactions
+- Prime to N
+- Duplicate Rows
+- Unique Work Days
+- Normalize Grades
+- Ugly Powers
+- Implementing the Fibonacci Sequence in Three Different Methods
+- Level Of Rain Water In 2D Terrain
+- Radix Addition
+- Same Side Probability
+- Search Ratings
+- Priority Queue Using Linked List
+- Triangle as Binary Array
+- Hundreds of Hypotheses
+- Longest Increasing Subsequence
+- Random Bucketing
+- Maximum Profit
+- Improve Search Results
+- Impression Reach
+- Random Weighted Driver
+- Identifying User Sessions
+- Stories Feature Change
+- Shortest Path Algorithms
+- Greatest Common Denominator
+- Random SQL Sample
+- Detecting Firearm Sales
+- Boarding Times Bias
+- Parents Joining Teens
+- Assumptions of Linear Regression
+- Approval Drop
+- Equivalent Index
+- Find the Missing Element
+- Sample Size Bias
+- Evaluate News
+- Skewed Pricing
+- Comments Histogram
+- Ride Requests Model
+- Expected Tests
+- Promoting Instagram
+- Compute Deviation
+- 500 Cards
+- Experiment Validity
+- Biased Random Number Generator
+- K Nearest Entries
+- HR Salary Reporting
+- Closed Accounts
+- Percentage of Revenue by Year
+- Released Patients
+- Stick Break
+- Uber Eats Customer Experience
+- Departmental Spend By Quarter
+- Target Indices
+- Mapping Nicknames
+- Total Conversation Threads
+- Location Frequency
+- Friend Request Acceptance Rate
+- Merchant Acquisition
+- Categorize Sales
+- Common Item Frequency
+- Underpricing Algorithm
+- How Many Friends
+- Sum to Zero
+- Random Seed Function
+- User Journey Analysis
+- Boosting Instagram Stories
+- Coin Dispenser
+- Linear Combination of Normal Distributions
+- Double Card Value
+- Descending Alphanumeric Sorting
+- Drawing Random Variable
+- Normal Distribution Sample
+- Matrix Analysis
+- One Million Rides
+- Interpolating Missing Temperatures
+- Biased five out of six
+- Bounds for Coffee and Tea Drinkers
+- Permanent Deletion Change
+- Unbiased Estimator
+- Significance Time Series
+- A Simpler KNN From Scratch
+- D2C Socks e-Commerce
+- Food Delivery Times
+- Rolling Average Steps
+- Lowest Paid
+- ATM Robbery
+- Avg Friend Requests By Age Group
+- Martingale Strategy
+- Causal Email Journey
+- 2X - Y
+- Demand Metrics
+- Closest SAT Scores
+- Friends Over Engagement
+- Monthly Customer Report
+- Dynamic Demand Pricing
+- Bias - Variance Tradeoff and Class Imbalance in Finance
+- Attribution Rules
+- Understanding Dynamic Pricing Strategy
+- Encoding Categorical Features
+- Employee Salaries
+- New UI Effect
+- Words in Encrypted String
+- Decreasing Payments
+- Move Zeros Back
+- Booking Regression
+- External Sorting
+- Employee Salaries (ETL Error)
+- Three Indexes Adding Zero
+- Interquartile Distance
+- Top Three Salaries
+- Last Transaction
+- Reward Experiment
+- Revenue Retention
+- Sort Strings
+- Marked Lists
+- Split Data Without Pandas
+- Basic Regex
+- Targeted sum
+- Index Fund Return
+- Identifying Good Investors
+- Regress Y on X
+- Cyclic Detection
+- Book Combinations
+- Post Composer Drop
+- Facebook Watch Party
+- Shortest Transformation
+- Monotonic Function
+- Facebook Story Success
+- Credit Score Estimation
+- Recruiting Leads
+- Fill Rate Drop
+- Non-Normal Probability Distribution
+- Missing Housing Data
+- Time on FB Distribution
+- Permutation Palindrome
+- Influencer Metrics
+- Fake Algorithm Reviews
+- ETA Experiment
+- Longest Streak Users
+- WAU vs Open Rates
+- Bank Fraud Model
+- Monthly Product Sales
+- Comparing Search Engines
+- Incorrect Packets
+- Transactions in the Last 5 Days
+- Keyword Bidding
+- Append Frequency
+- Group Success
+- Dictionary Unique Values
+- Comment Upvotes
+- SFTP Pipeline
+- All Tails Consecutive
+- Explaining LDA
+- String Subsequence
+- Common Prefix
+- Upsell Carousel
+- Unstructured Data Pipeline (ETL)
+- Reducing Error Margin
+- Celebrity Mentions
+- One Element Removed
+- Losing Users
+- Electricity Supply
+- Close Friends Story
+- Find Mismatched Words
+- Acquisition Threshold
+- Free Seats
+- Sales Leaderboard
+- Decreasing Tech Debt
+- Increase Search Ads
+- Testing Price Increase
+- Feed Impression
+- 7 Day Streak
+- Video Game Respawn Model
+- Matching Siblings
+- Flatten JSON
+- Buy or Sell
+- Sample Time Series
+- Binary Tree Validation
+- Groups of Anagrams
+- SMS Confirmations
+- Density to Cumulative
+- Spanish Scrabble
+- Romantic Reduction
+- Nearest Common Ancestor
+- Prime Music Integration
+- Third Purchase
+- t Value via SQL
+- Converted Sessions
+- Risk Assessment Model
+- Distributed Authentication Model
+- Unsafe Content ML Design
+- NxN Grid Traversal
+- Month Over Month
+- Campaign Goals
+- Location Feature Sharing
+- Relational Migration
+- Post Success
+- Average Unique Counts
+- Liked and Commented
+- Get Top N Frequent Words
+- Bucket Test Scores
+- Integer String Addition
+- FAQ Matching
+- Above Average Product Prices
+- 85% vs 82%
+- Conversations Distribution
+- Support Vector Machines vs Deep Learning Models
+- Data Preparation for Imbalanced Data
+- Complete Addresses
+- International e-Commerce Warehouse
+- Tag Counter
+- Last Page Number
+- Replace Words with Stems
+- Crossing Bridges
+- Top 3 Users
+- Weekly Aggregation
+- Inactive Users
+- Rebalance Probabilities
+- Department Expenses
+- Area Under the ROC Curve
+- Ad Comments
+- Fast Food Database
+- Free Trial Conversion
+- Cumulative Sales Since Last Restocking
+- Lifetime Driver
+- Multicollinearity in Regression
+- Active User Probability
+- Restaurant Recommender
+- Employees Before Managers
+- Employee Project Budgets
+- Third Unique Song
+- Project Pairs
+- Overfit Avoidance
+- Audio Chat Success
+- Cumulative Sales By Product
+- Data Pipelines and Aggregation
+- Liked Pages
+- Address Schema
+- MLE vs MAP
+- Random Difference
+- Visible Buildings
+- Sports App Cheater
+- Chronological Order in Boosting
+- Concentric Circles
+- Docs Metrics
+- Increasing Group Comments
+- TikTok FYP Algorithm
+- Instant Eat Reintroduction
+- Expected Loops
+- Delivery Online
+- Explain Neural Nets to Kids
+- Intelligent Restaurant Review
+- Search Ranking
+- Best Slot Machine
+- Over-Budget Projects
+- Email Marketing System
+- Automated Labeling
+- Fake News on Newsfeed
+- Repeat Job Postings
+- DAU Gradual Decline
+- Out of Stock Inventory
+- Meaningful Session Calculation
+- Outreach Strategy
+- Cross-Culture Reports
+- Reverse List Starting at Index K
+- PCA and K-Means
+- ReLu vs Tanh
+- Programming Risk Combat
+- Ride-Sharing App Schema
+- Retailer Data Warehouse
+- Email Discount Effectiveness
+- Score Based on Review
+- Forecasting New Year Revenue
+- Customer Success vs. Free Trial
+- Value of College
+- MLE for Default Prediction
+- POS Subscription Retention
+- Analyzing Churn Behavior
+- Size of Joins
+- Fake News Stories
+- Listing Bookings Aggregation
+- Listings Recommendation
+- Tradeoffs Between Precision and Recall
+- Time Series Discrepancies
+- Meta-classifier in Stacking
+- Analyzing Store Performance
+- Bootstrapping Samples
+- Minimum Parking Spots
+- Swapping Nodes
+- LRU Cache 1
+- Measuring Text Difficulty
+- Tic-Tac-Toe Outcome
+- Analyzing Multiple Data Sources
+- Modifying a Billion Rows
+- Payment Data Pipeline
+- Choosing Between Python and SQL
+- Check Matching Parentheses
+- Branch Sales Pivot
+- Weighted Average Campaigns
+- Bomb Detection
+- Incentive Scheme
+- Maximum Common Substring
+- Minimum Moves to 2048
+- Retention Rate Disparity
+- Credit Card Outreach
+- Click Data Schema
+- Scrapers or Users
+- Measuring Customer Service Quality
+- Linear Regression Parameters
+- Yelp-like System
+- Facebook Job Board Design
+- Digital Classroom System Design
+- Correlated Features in Forests
+- Evaluating Revenue Decline
+- Your Strengths and Weaknesses
+- Duplicate Product Names
+- Multi-Reaction
+- Previous NaN Values
+- First Names Only
+- Email Campaign
+- Inception Architecture
+- Cross-Platform Optimization
+- Risk Model for a Mortgage Bank
+- t Value via Pandas
+- Design Poker Schema
+- Weighted Average With Missing Dates
+- Weighted Average Sales
+- Simple Explanations
+- Accessible Data
+- Equal Binary Subarrays
+- Interpreting Fraud Detection Trends
+- Data Cleaning Experiences
+- Hurdles In Data Projects
+- Success Measurement
+- Presentations and Insights
+- Stakeholder Communication
+- Generative vs Discriminative
+- Median Household Income
+- Google Docs Autosave System
+- Flagging Users
+- Using APIs for Downstream Tasks
+- Backpropagation Explanation
+- Text Search System
+- Most Valuable Artwork
+- Custom Filter
+- Fake Ad Prevalence
+- Building Lyft Line
+- High School Sticker
+- Game Feature Home
+- Delivery Fees
+- Extra Delivery Pay
+- Creating Companies Table
+- Decreasing Ride Costs
+- Effectiveness of Sales
+- Processing Large CSV
+- Student Tests
+- Customer Analysis
+- Music Database
+- Facebook Autocomplete
+- Dropbox Database
+- Ad Placement Value
+- Stratified Split
+- Flight Modeling
+
+## Hard:
+- Random Number
+- Friendship Timeline
+- Rain in N Days
+- Instagram TV Success
+- Amateur Performance
+- Median Probability
+- Poker Pair
+- Uber User Journey
+- Youtube Recommendations
+- Second Longest Flight
+- Rolling Bank Transactions
+- Fractional Shares
+- Newsfeed Model
+- Facebook Stories
+- Netflix Retention
+- Unified Inbox
+- Recency Weighted Salaries
+- Stranded Miner
+- Activity Conversion
+- Random Forest from Scratch
+- Variable Error
+- Payments Received
+- Dijkstra implementation
+- Intersecting Lines
+- Scrambled Tickets
+- Swimmer Survival
+- Estimated Rounds
+- Cumulative Distribution
+- Job Recommendation
+- Community Health Metrics
+- HHT or HTT
+- Generating Continuous Forecasts
+- Total Time in Flight
+- First Touch Attribution
+- Possible Triangles
+- Page Recommendations
+- Jars and Coins
+- Non-Normal AB Testing
+- Tower of Hanoi
+- Proof k-Means Converges
+- KNN From Scratch
+- Minimize Wrong Orders
+- Secret Wins
+- Optimal Host
+- Subscription Overlap
+- Strictly Decreasing PDF
+- Decreasing Subsequent Values
+- Max Width
+- Career Jumping
+- Truncated Distribution
+- Merge N Sorted Lists
+- Filling Supermarket Bag
+- Six Face Die
+- Ad Raters: Part 2
+- Sum to N
+- Rearranging Digits
+- Notification Unsubscribes
+- Paired Products
+- Minimum Directional Path
+- New Notification
+- Bag of Different Coins
+- Flipping 576 Times
+- Generating Discover Weekly
+- Bernoulli Sample
+- Green Dot
+- Swipe Precision
+- 180 Day Job Postings
+- Search CTR
+- CTR by Age
+- Coin Flip Probability
+- Summing Numeric Strings
+- Data Stream Median
+- Unified Live Comments
+- Podcast Search
+- Annual Retention
+- Network Experiment Design
+- Ranking Metrics
+- Uber Eats Success
+- k-Means from Scratch
+- Type-ahead Search
+- John's New Best Friend
+- Blogging Platform Schema
+- Fraudulent Upvotes
+- Sequentially Fill in Integers
+- Flight Records
+- Logistic Regression from Scratch
+- Walking Robot
+- Automatic Histogram
+- Notification Type Conversion
+- User System Response Times
+- Check Normality
+- Regularization and Validation
+- Kernel Methods
+- Marketing Dollar Efficiency
+- Liker's Likers
+- Best Performing Advertisers
+- Possibly Biased Coin
+- Subscription Retention
+- Scaling Up Recommender
+- Trending Sort
+- Hotel Occupancy Prediction
+- Commercial Break
+- Notification Deliveries
+- Multiple Select Data
+- Focus Group Analysis
+- A/B Test Results for Conversion
+- Length Of Longest Palindrome
+- Related Jobs Optimization
+- Separate Models for Age Groups
+- Cumulative Reset
+- Pool Matching
+- Pathfinder in Maze
+- Clickstream Data
+- Trial Test Analysis
+- Messenger Payments
+- Lifetime Value (LTV) for Subscription Service
+- Optimizing Supply Chain Efficiency
+- Cancellation Fees
+- Infer Location from Activity
+- Clustering Basketball Players
+- Netflix Price
+- Swiping App Design
+- Rider Discount
+- Google Earth Storage
+- Disease Testing Probability
+- Dog Rescue Robot
+- Clustering With Mixed Variable Types
+- Optimizing Threshold Adjustment in Default Risk Models
+- Quantify Uncertainty
+- Podcast Space
+- Gradient Descent Calculation
+- Friends vs Posts
+- Market Opening Experiment
+- Sum Numbers As Strings
+- Live Comments
+- Licensing Valuation
+- Best DAU
+- Designing a Fraud Detection System
+- Ad Engagement Analysis for Qualified Users
+- Adam Optimizer
+- Cancellation Time Limit
+- Slow OLAP Aggregations
+- Deer Density
+- Call Center Resource Management
+- Food Delivery Refund Policy
+- Meta in an Emerging Market
+- Parking Application System Design
