@@ -1,0 +1,35 @@
+roadmaps/
+├── README.md
+├── statistics-roadmap/
+│   └── 30-day-statistics-roadmap.md
+├── machine-learning-roadmap/
+│   └── 30-day-ml-roadmap.md
+├── linear-algebra-roadmap/
+│   └── 30-day-linear-algebra-roadmap.md
+├── calculus-roadmap/
+│   └── 30-day-calculus-roadmap.md
+├── mlops-roadmap/
+│   └── 30-day-mlops-roadmap.md
+├── probability-roadmap/
+│   └── 30-day-probability-roadmap.md
+├── data-engineering-roadmap/
+│   └── 30-day-data-engineering-roadmap.md
+├── deep-learning-roadmap/
+│   └── 30-day-deep-learning-roadmap.md
+├── nlp-roadmap/
+│   └── 30-day-nlp-roadmap.md
+├── computer-vision-roadmap/
+│   └── 30-day-computer-vision-roadmap.md
+├── cloud-bigdata-roadmap/
+│   └── 30-day-cloud-bigdata-roadmap.md
+├── ml-system-design-roadmap/
+│   └── 30-day-ml-system-design-roadmap.md
+├── feature-engineering-roadmap/
+│   └── 30-day-feature-engineering-roadmap.md
+├── model-interpretability-roadmap/
+│   └── 30-day-model-interpretability-roadmap.md
+├── sql-roadmap/
+│   └── 30-day-sql-roadmap.md
+├── time-series-roadmap/
+│   └── 30-day-time-series-roadmap.md
+└── LICENSE
