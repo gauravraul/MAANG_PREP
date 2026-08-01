@@ -9,3 +9,5 @@
 # Medium : https://medium.com/%40rohitverma_87831/my-interview-experience-at-google-afc1080df175
 # Glassdoor
 # AmbitionBox
+# AIdemy
+# PracticAI
