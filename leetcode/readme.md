@@ -1,10 +1,10 @@
 # Following Neetcode 150(Based on complexity - Easy to Hard):
 
 ## Easy:
-- Contains Duplicate   	
-- Valid Anagram   	
-- Two Sum   	
-- Valid Palindrome   	
+- Contains Duplicate   	✅
+- Valid Anagram   	✅
+- Two Sum   ✅
+- Valid Palindrome   	✅
 - Best Time to Buy And Sell Stock   	
 - Valid Parentheses   	
 - Binary Search   	
