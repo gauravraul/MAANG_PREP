@@ -6,7 +6,7 @@
 - Two Sum   ✅
 - Valid Palindrome   	✅
 - Best Time to Buy And Sell Stock   	
-- Valid Parentheses   	
+- Valid Parentheses   	✅
 - Binary Search   	
 - Reverse Linked List   	
 - Merge Two Sorted Lists   	
